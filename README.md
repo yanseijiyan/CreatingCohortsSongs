@@ -25,7 +25,7 @@ As a data scientist, you should perform exploratory data analysis and perform cl
 * popularity :	It is the popularity of the song from 0 to 100.
 * duration_ms :	It is the duration of the track in milliseconds.
 
-## Steps to Perform: 
+## Steps to Performed: 
 *	Initial data inspection and data cleaning:
     1. Check whether the data has duplicates, missing values, irrelevant (erroneous entries) values, or outliers.
 
